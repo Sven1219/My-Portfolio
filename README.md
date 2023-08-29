@@ -1,6 +1,3 @@
 # react-tailwind-portfolio
 
-"# portfolio" 
-"# portfolio" 
-"# portfolio" 
-"# portfolio" 
+My portfolio was developed using react.js and tailwind.css.
